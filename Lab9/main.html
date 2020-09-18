@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>The Whole Prime Number Checker</title>
+    <h1>The Whole Prime Number Checker</h1>
+    <link rel="stylesheet" href="public/site.css">
+  </head>
+  <body>
+      <main>
+            <div id="error" hidden></div>
+            <form method="POST" id="primes">
+                <label for="input" id="label">Enter a number to check if it's prime: </label>
+                <input type="number" name="number" id="input">
+                <button type="submit" id="submit">Submit</button>
+            </form>
+        <ol id="attempts"></ol>
+    </main>
+    <script src="./data/primeCheck.js"></script>
+    <footer>
+        Joseph Kuhn, 10409330, 4/5 Computer Engineering Student
+    </footer>
+  </body>
+</html>

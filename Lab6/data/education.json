@@ -1,0 +1,26 @@
+[
+    {
+        "schoolName" : "Stony Lane Elementary School",
+        "degree": "Elementary School Diploma",
+        "favoriteClass": "Computers",
+        "favoriteMemory": "We had a big 4th grade sleepover where a bunch of fun activities were planned. At the end of the night, we slept in the school gym in our sleeping bags and whispered to each other throughout the night because we were supposed to be sleeping. It was an unforgettable experience."
+    },
+    {
+        "schoolName" : "West Brook Middle School",
+        "degree": "Middle School Diploma",
+        "favoriteClass": "Cooking",
+        "favoriteMemory": "In 8th grade, we had a trip to Washington D.C. towards the end of the year. We drove down on a bus and stayed for a few days to explore the area and gain a better appreciation for our country. We slept in hotel rooms, and had a mini dinner/dance in one of the hotel's bigger rooms on the first night."
+    },
+    {
+        "schoolName": "Paramus High School",
+        "degree": "High School Diploma",
+        "favoriteClass": "AP Computer Science",
+        "favoriteMemory": "We had a pool day towards the end of my senior year before graduation. We were all excused from classes for the day, and we all went to the local town pool. We spent the day swimming in various pools, playing volleyball on the court, and just relaxing on the grass. My friends and I ordered Dominos for lunch."
+    },
+    {
+        "schoolName": "Stevens Institute of Technology",
+        "degree": "Bachelors Degree",
+        "favoriteClass": "Data Structures & Computer Algorithms",
+        "favoriteMemory": "My favorite memory is when I first joined Kappa Sigma freshman year. It was a brand new experience for me, especially since I didn't expect to join Greek Life when I came to Stevens. I got to truly understand what fraternities were about and what the values that Kappa Sigma held were. I felt extremely welcomed by everyone in the fraternity, and I found my home away from home, where I could be part of a second (and much larger) family while I wasn't with my real one."
+    }
+]

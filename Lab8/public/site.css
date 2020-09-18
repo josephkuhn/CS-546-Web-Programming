@@ -1,0 +1,46 @@
+body {
+    background: lightblue;
+    font-family: "Trebuchet MS", Helvetica, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #afafaf;
+    max-width: 35%;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+}
+
+p {
+    font-size: 15px;
+    color: black;
+}
+
+button[type=submit] {
+    background-color: red;
+    border: black;
+    color: black;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+
+dt {
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 3px;
+    margin-left: 20px;
+}
+
+dd {
+    font-size: 12px;
+    padding-bottom: 15px;
+    margin-left: 30px;
+}

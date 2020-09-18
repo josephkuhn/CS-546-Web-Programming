@@ -1,0 +1,8 @@
+body {
+    padding-top: 0px;
+}
+
+#login-form {
+    float: left;
+    clear: left;
+}

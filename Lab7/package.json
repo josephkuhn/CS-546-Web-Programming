@@ -1,0 +1,17 @@
+{
+  "name": "cs-546-lab-7",
+  "version": "1.0.0",
+  "description": "Lab 7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Kuhn 10409330",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongo": "^0.1.0",
+    "node-uuid": "^1.4.8"
+  }
+}
