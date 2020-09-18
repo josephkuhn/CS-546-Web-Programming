@@ -1,0 +1,16 @@
+{
+  "name": "cs-546-lab-3",
+  "version": "1.0.0",
+  "description": "Lab 3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Joseph Kuhn 10409330",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "is-vowel": "^1.2.10",
+    "sort-array": "^2.0.0"
+  }
+}
